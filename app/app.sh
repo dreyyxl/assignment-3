@@ -77,4 +77,3 @@ case "${1:-}" in
         ;;
 esac
 
-if then
